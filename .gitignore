@@ -19,8 +19,6 @@ node_modules/
 .buildpath
 .settings
 .yml
-data
 nohup.out
 .spmjspid
 elasticsearch-*
-config/base.yaml
