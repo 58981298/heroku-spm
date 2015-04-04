@@ -1,1 +1,1 @@
-web: npm install -d & node app
+web: node app.js
